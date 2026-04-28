@@ -85,7 +85,8 @@ The infrastructure includes:
 
 | Description | Image |
 |------------|------|
-|01-vpc-overview.png | 
+|01-vpc-overview.png | <img width="1366" height="736" alt="01-vpc-overview" src="https://github.com/user-attachments/assets/41c090c3-5c8c-482e-a372-8d3d5115de5e" />
+
 |02-public-subnet-setup.png |
 |03-private-subnet-setup.png |
 |04-internet-gateway.png |
