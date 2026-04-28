@@ -83,20 +83,18 @@ The infrastructure includes:
 
 ##  Screenshots
 
-| Description | Image |
-|------------|------|
-|01-vpc-overview.png | <img width="1366" height="736" alt="01-vpc-overview" src="https://github.com/user-attachments/assets/41c090c3-5c8c-482e-a372-8d3d5115de5e" />
-
-|02-public-subnet-setup.png | <img width="1366" height="731" alt="02-public-subnet-setup" src="https://github.com/user-attachments/assets/df73c05e-2643-4d1c-b8dc-411e29c8fcaa" />
-
-|03-private-subnet-setup.png |
-|04-internet-gateway.png |
-|05-route-table-public.png |
-|06-route-table-private.png |
-|07-nat-gateway.png |
-|08-public-ec2-running.png |
-|09-web-server-output.png |
-|10-private-instance-curl-test.png |
+ Description 
+------------
+01-vpc-overview.png 
+02-public-subnet-setup.png 
+03-private-subnet-setup.png 
+04-internet-gateway.png 
+05-route-table-public.png 
+06-route-table-private.png 
+07-nat-gateway.png 
+08-public-ec2-running.png 
+09-web-server-output.png 
+10-private-instance-curl-test.png 
 
 
 
