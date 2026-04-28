@@ -85,11 +85,16 @@ The infrastructure includes:
 
 | Description | Image |
 |------------|------|
-| VPC Setup | ![](screenshots/01-vpc-overview.png) |
-| Public Subnet | ![](screenshots/02-public-subnet-setup.png) |
-| NAT Gateway | ![](screenshots/07-nat-gateway.png) |
-| Public EC2 | ![](screenshots/08-public-ec2-running.png) |
-| Private EC2 | ![](screenshots/09-private-ec2-running.png) |
+|01-vpc-overview.png | 
+|02-public-subnet-setup.png |
+|03-private-subnet-setup.png |
+|04-internet-gateway.png |
+|05-route-table-public.png |
+|06-route-table-private.png |
+|07-nat-gateway.png |
+|08-public-ec2-running.png |
+|09-web-server-output.png |
+|10-private-instance-curl-test.png |
 
 
 
