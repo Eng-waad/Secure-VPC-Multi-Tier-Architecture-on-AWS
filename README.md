@@ -85,15 +85,24 @@ The infrastructure includes:
 
  Description 
 ------------
-01-vpc-overview.png 
+01-vpc-overview.png  
+
 02-public-subnet-setup.png 
+
 03-private-subnet-setup.png 
+
 04-internet-gateway.png 
+
 05-route-table-public.png 
+
 06-route-table-private.png 
+
 07-nat-gateway.png 
+
 08-public-ec2-running.png 
+
 09-web-server-output.png 
+
 10-private-instance-curl-test.png 
 
 
